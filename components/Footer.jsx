@@ -29,7 +29,7 @@ const Footer = () => (
               className="cursor-pointer"
             >
               <img
-                src={`/icons/${social.name.toLowerCase()}.svg`}
+                src={`/${social.name.toLowerCase()}.svg`}
                 alt={social.name}
                 className="w-[28px] h-[28px] hover:scale-110 transition-transform"
               />
