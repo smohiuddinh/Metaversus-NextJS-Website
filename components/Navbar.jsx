@@ -16,7 +16,7 @@ const Navbar = () => (
       className="w-[24px] h-[24px] object-contain "
       />
 
-      <h2 className=" text-[24px]  leading-[30px] text-white font-extrabold" >METAVERUS</h2>
+      <h2 className=" text-[24px]  leading-[30px] text-white font-extrabold" >ELON MUSK</h2>
 
 
     <img

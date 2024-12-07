@@ -4,8 +4,6 @@ module.exports = {
     es2021: true,  // Supports ES2021 syntax
   },
   extends: [
-    'eslint:recommended',       // Base ESLint recommended rules
-    'plugin:react/recommended', // React-specific linting rules
   ],
   parserOptions: {
     ecmaFeatures: {

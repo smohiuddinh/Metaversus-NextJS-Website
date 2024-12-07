@@ -1,70 +1,63 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/tchart.png',
+    title: 'Tesla’s Economic Impact',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/blockchain.png',
+    title: 'Cryptocurrency and Blockchain',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/elontrend.png',
+    title: 'Musk’s Influence on Business Trends',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
-  },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/dodge.png',
+    title: 'Dodge Coin surpassed when Elon Musk join Live at 2021',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "1995: Co-founded Zip2",
+  "1999: Co-founded X.com (PayPal)",
+  "2004: Joined Tesla",
+  "2008: SpaceX launched Falcon",
+  "2019: Launched his Coin 'Dodge Coin''",
+  "2022: Acquired Twitter (X)",
 ];
 
 export const newFeatures = [
-  {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
-    subtitle:
-        'we have the latest update with new world for you to try never mind',
-  },
-  {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
-    subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
-  },
+  { title: "Tesla's Full Self-Driving Beta Expansion", subtitle: "Tesla is expanding its Full Self-Driving capabilities, taking us closer to fully autonomous vehicles." },
+  { title: "SpaceX's Starship Development for Mars Missions", subtitle: "SpaceX's Starship is in development, aiming for interplanetary travel and Mars missions." },
+  { title: "Neuralink's Progress on Brain-Machine Interfaces", subtitle: "Neuralink is advancing brain-machine interfaces, potentially revolutionizing medical treatments." },
+  { title: "Starlink's Expansion to Remote Areas Globally", subtitle: "Starlink continues to expand, providing high-speed internet to underserved areas worldwide." },
+  { title: "The Boring Company's Tunnel Projects for Urban Transportation", subtitle: "The Boring Company is working on tunnel projects that could transform urban transportation with faster, safer travel." }
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
-    subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+    imgUrl: '/elonmusk.png', // Replace with an actual image of Elon Musk
+    title: 'Visionary Entrepreneur',
+    subtitle: 'Elon Musk revolutionized multiple industries with Tesla, SpaceX, and Neuralink.',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
-    subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+    imgUrl: '/tesla.png', // Replace with Tesla image if needed
+    title: 'Tesla’s Impact on Electric Vehicles',
+    subtitle: 'Musk’s leadership turned Tesla into the most valuable automaker, making electric cars mainstream.',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+    imgUrl: '/spacex.png', // SpaceX-related image
+    title: 'SpaceX’s Mars Colonization',
+    subtitle: 'Musks ambitious goal to colonize Mars and make humanity a multi-planetary species through SpaceX.',
+  },
+  {
+    imgUrl: '/nerolink.png', // Neuralink logo or related image
+    title: 'Neuralink: Connecting Brains and Technology',
+    subtitle: 'With Neuralink, Musk envisions creating technologies that bridge the gap between humans and AI.',
   },
 ];
 
